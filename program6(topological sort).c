@@ -40,7 +40,7 @@ int main(){
 }
 
 
-#OUTPUT:
+//OUTPUT:
 Enter number of vertices: 5
 Enter number of edges: 4
 Enter edge (from to): 1 3
