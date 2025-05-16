@@ -26,7 +26,7 @@ int main(){
 }
 
 
-#OUTPUT:
+//OUTPUT:
 Enter number of elements: 5
 Enter the elements:
 1 6 3 4 2
