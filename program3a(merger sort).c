@@ -46,3 +46,16 @@ int main(){
     printArray(arr,arr_size);
     return 0;
 }
+
+#OUTPUT:
+Enter the number of elements: 7
+Enter the elements:
+31
+25
+4
+78
+44
+69
+1000
+Given array: 31 25 4 78 44 69 1000 
+Sorted array: 4 25 31 44 69 78 1000
