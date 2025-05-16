@@ -18,5 +18,5 @@ int main(){
 }
 
 
-#OUTPUT:
+//OUTPUT:
 1 2 4 5 8 
