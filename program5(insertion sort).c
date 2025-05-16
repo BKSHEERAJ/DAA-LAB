@@ -24,3 +24,10 @@ int main(){
     printf("\n");
     return 0;
 }
+
+
+#OUTPUT:
+Enter number of elements: 5
+Enter the elements:
+1 6 3 4 2
+Sorted array: 1 2 3 4 6 
