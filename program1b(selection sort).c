@@ -24,6 +24,6 @@ int main(){
     return 0;
 }
 
-#OUTPUT:
+//OUTPUT:
 64 25 12 22 11 
 11 12 22 25 64 
