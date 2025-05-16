@@ -33,7 +33,7 @@ int main(){
     return 0;
 }
 
-#OUTPUT:
+//OUTPUT:
 Enter the size of array: 7
 Enter the elements: 22
 5
