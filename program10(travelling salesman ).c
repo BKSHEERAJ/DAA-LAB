@@ -28,3 +28,17 @@ int main(){
     printf("Minimum cost using greedy approach: %d\n",result);
     return 0;
 }
+
+//OUTPUT:
+Enter the number of cities: 3
+Enter the distance matrix:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Minimum cost using greedy approach: 15
