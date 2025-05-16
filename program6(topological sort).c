@@ -38,3 +38,13 @@ int main(){
     topologicalSort();
     return 0;
 }
+
+
+#OUTPUT:
+Enter number of vertices: 5
+Enter number of edges: 4
+Enter edge (from to): 1 3
+Enter edge (from to): 2 4
+Enter edge (from to): 2 6 
+Enter edge (from to): 2 3 
+Topological Order: 2 4 1 3 0 
