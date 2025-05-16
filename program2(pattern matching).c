@@ -20,5 +20,5 @@ int main(){
     return 0;
 }
 
-#OUTPUT:
+//OUTPUT:
 Pattern found at index 10
