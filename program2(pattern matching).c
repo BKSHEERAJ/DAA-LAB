@@ -19,3 +19,6 @@ int main(){
     patternMatch(string,pattern);
     return 0;
 }
+
+#OUTPUT:
+Pattern found at index 10
