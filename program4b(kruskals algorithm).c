@@ -59,3 +59,12 @@ int main(){
     kruskalMST(edges);
     return 0;
 }
+
+
+//OUTPUT:
+4B
+Edge 	Weight
+0 - 1 	2
+1 - 2 	3
+1 - 4 	5
+0 - 3 	6
