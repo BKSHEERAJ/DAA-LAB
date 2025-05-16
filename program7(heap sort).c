@@ -42,7 +42,7 @@ int main(){
     return 0;
 }
 
-#OUTPUT:
+//OUTPUT:
 Enter number of elements: 6
 Enter the elements:
 1
