@@ -41,3 +41,14 @@ int main(){
     printArray(arr,n);
     return 0;
 }
+
+#OUTPUT:
+Enter number of elements: 6
+Enter the elements:
+1
+2
+8
+45
+34
+89
+Sorted array: 1 2 8 34 45 89 
